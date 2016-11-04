@@ -8,6 +8,6 @@ gae-sw is a simple webapp2 application that uses one handler to serve static htm
 ```sh
 git clone https://github.com/mohan3d/gae-sw.git
 # copy your static files to gae-sw
-# set your appId in gae-sw/app.yaml
+# set your projectId in gae-sw/app.yaml
 # deploy 
 ```
